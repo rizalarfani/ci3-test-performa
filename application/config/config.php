@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/ci3-test/';
+$config['base_url'] = 'https://test.motalindo.com/';
 
 /*
 |--------------------------------------------------------------------------
